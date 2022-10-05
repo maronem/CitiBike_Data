@@ -11,6 +11,8 @@ The purpose of this analysis was to understand Citi Bike user demographics and t
 
 Below are Tableau generated results from the Citi Bike User dataset:
 
-#### Fig 1. Most starting locations for Citi Bike riders are in lower New York City.
+#### Fig 1. Most starting locations for Citi Bike riders are in lower New York City (NYC).
+
+Ride count is signified by circle size and cirlce darkness, showing the largest count and density of ride starting locations are in the lower third of NYC.
 
 ![top_start_loc](https://user-images.githubusercontent.com/108199140/194126176-7e6fe2d0-cf4b-49ec-b4dc-8ec156374ed7.PNG)
