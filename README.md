@@ -36,8 +36,11 @@ This generated heat plot shows denisty of rides stopped during 1 hour bins. High
 
 ![stop_times](https://user-images.githubusercontent.com/108199140/194130331-8786ead3-4340-435b-aa54-cd536b30b26d.PNG)
 
+#### Fig 4. The most popular times to end Citi Bike rides vary depending on time of the week.
 
+When looking at the data parsed by gender (Male, Female, or Unknown), the same outcome of a majority of rides spanning 5 minutes holds for both males and females, while male users overall have a higher ride count. Interestingly, those who did not specify their gender have a more spread out ride time spanning from approximately 5-30 mins.
 
+![trip_duration_gender](https://user-images.githubusercontent.com/108199140/194132056-4914e82d-493e-421e-a88f-1b9aa423707a.PNG)
 
 
 
