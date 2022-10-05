@@ -48,8 +48,9 @@ The below heat map shows ride count by gender and day of the week. Overall, the 
 
 ![trip_volume_gender](https://user-images.githubusercontent.com/108199140/194147206-ed3c548c-fdcf-4df5-aee6-9617ae269cb9.PNG)
 
-#### Fig 7. Citi Bike ride stop times 
+#### Fig 7. Citi Bike ride stop times do not differ between genders.
 
+When parsing the Citi Bike ride stop time heatmap to the following when stop times are parsed by Gender, the heat maps show the same patterns with a majority of riders ending their rides between 7-9am and 5-7pm during the week. Additionally, the same pattern is shown on the weekends with rides ending continuously throughout the day. The weaker heatmap intensity for females matches that there are less female users, but does not change any data pattern compared to male users.
 
 ![stop_times_gender](https://user-images.githubusercontent.com/108199140/194147943-e7755591-f742-4a7e-9b85-f8bfc70046ce.PNG)
 
