@@ -22,7 +22,7 @@ Ride count is signified by circle size and cirlce darkness, showing the largest 
 Ride count is again signified by circle size and cirlce darkness, showing the largest count and density of ride ending locations are in the lower third of NYC, but 
 the ending locations can vary as the circle size and darknesses are not always matching.
 
-** INSERT IMAGE HERE ** 
+![end_loc](https://user-images.githubusercontent.com/108199140/194183185-dce4c087-c2d9-4821-9489-2f6dae633519.PNG)
 
 #### Fig 3. A majority of Citi Bike rides last 5 minutes.
 
