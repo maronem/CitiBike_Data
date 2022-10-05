@@ -16,3 +16,35 @@ Below are Tableau generated results from the Citi Bike User dataset:
 Ride count is signified by circle size and cirlce darkness, showing the largest count and density of ride starting locations are in the lower third of NYC.
 
 ![top_start_loc](https://user-images.githubusercontent.com/108199140/194126176-7e6fe2d0-cf4b-49ec-b4dc-8ec156374ed7.PNG)
+
+#### Fig 2. Most ending locations for Citi Bike riders are also in lower NYC.
+
+Ride count is again signified by circle size and cirlce darkness, showing the largest count and density of ride ending locations are in the lower third of NYC, but 
+the ending locations can vary as the circle size and darknesses are not always matching.
+
+** INSERT IMAGE HERE ** 
+
+#### Fig 3. A majority of Citi Bike rides last 5 minutes.
+
+Citi Bike ride counts have a steady increase from 1-5 minutes, with a peak at 5 min (146,752 rides, and a steady decline out to 60 min.
+
+![trip_duration](https://user-images.githubusercontent.com/108199140/194128093-48abb345-90f8-4ed5-a49a-99b348efd3cc.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
