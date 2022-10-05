@@ -48,9 +48,10 @@ The below heat map shows ride count by gender and day of the week. Overall, the 
 
 ![trip_volume_gender](https://user-images.githubusercontent.com/108199140/194147206-ed3c548c-fdcf-4df5-aee6-9617ae269cb9.PNG)
 
+#### Fig 7. Citi Bike ride stop times 
 
 
-
+![stop_times_gender](https://user-images.githubusercontent.com/108199140/194147943-e7755591-f742-4a7e-9b85-f8bfc70046ce.PNG)
 
 
 
