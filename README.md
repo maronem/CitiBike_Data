@@ -36,15 +36,17 @@ This generated heat plot shows denisty of rides stopped during 1 hour bins. High
 
 ![stop_times](https://user-images.githubusercontent.com/108199140/194130331-8786ead3-4340-435b-aa54-cd536b30b26d.PNG)
 
-#### Fig 4. The most popular times to end Citi Bike rides vary depending on time of the week.
+#### Fig 5. The most popular times to end Citi Bike rides vary depending on time of the week.
 
 When looking at the data parsed by gender (Male, Female, or Unknown), the same outcome of a majority of rides spanning 5 minutes holds for both males and females, while male users overall have a higher ride count. Interestingly, those who did not specify their gender have a more spread out ride time spanning from approximately 5-30 mins.
 
 ![trip_duration_gender](https://user-images.githubusercontent.com/108199140/194132056-4914e82d-493e-421e-a88f-1b9aa423707a.PNG)
 
+#### Fig 6. Citi Bike ride counts are highest on Monday-Tuesday and Thursday-Friday, regardless of gender.
 
+The below heat map shows ride count by gender and day of the week. Overall, the heat map is stronger in the male column as there are more Male riders compared to females. Regardless of this, the heat map shading is similar between both Males and Females with the highest round count days as Monday-Tuesday, Thursday-Friday, with the highest overall ride counts being on Thursday.
 
-
+![trip_volume_gender](https://user-images.githubusercontent.com/108199140/194147206-ed3c548c-fdcf-4df5-aee6-9617ae269cb9.PNG)
 
 
 
