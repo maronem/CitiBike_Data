@@ -30,9 +30,11 @@ Citi Bike ride counts have a steady increase from 1-5 minutes, with a peak at 5 
 
 ![trip_duration](https://user-images.githubusercontent.com/108199140/194128093-48abb345-90f8-4ed5-a49a-99b348efd3cc.PNG)
 
+#### Fig 4. The most popular times to end Citi Bike rides vary depending on time of the week.
 
+This generated heat plot shows denisty of rides stopped during 1 hour bins. High counts are indicated by dark red, while low counts are indicated by yellow. These data show a majority of riders end their rides between 7-9am and 5-7pm during the week, while rides end continuosly throughout the day on the weekends.
 
-
+![stop_times](https://user-images.githubusercontent.com/108199140/194130331-8786ead3-4340-435b-aa54-cd536b30b26d.PNG)
 
 
 
