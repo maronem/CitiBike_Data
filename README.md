@@ -56,4 +56,10 @@ When parsing the Citi Bike ride stop time heatmap to the following when stop tim
 
 # Summary
 
-
+  These data show that Citi Bike users start and end their rides mostly in the lower third of NYC with some of the return locations being as active as the starting locations, while some vary in popularity. Users ride times vary from 1-60 min but a majority of user rides are 5 min in duration, and this holds regardless of gender. Thse quick rides could be due to users riding to work for short distances as ride counts are highest both in the morning (7am-9am) and evening (5pm-7pm) around the time people go to work and head home during the week. While there are overall more male Citi Bike users, this trend holds for female Citi Bike users as well. Lastly, while investigating ride volume per day by gender, both male and female Citi Bike users ride mostly during the week with the highest ride counts during Mon/Tues and Thurs/Fri. Overall these data show that both male and female Citi Bike users mostly use Citi Bikes for short rides in the morning and evening during the week during times associated with morning and evening rush hour. 
+  One additional analysis that could be performed...
+  
+  
+  
+  
+  
